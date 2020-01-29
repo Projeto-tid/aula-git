@@ -4,7 +4,7 @@
 Guia prático para iniciantes 
 
 
-# scenes
+# Scenes
 
 - [x] Você deseja criar pontos na historia da prodrução do seu projeto. 
 - [x] Você deseja verificar mudanças feitas no seu projeto.
