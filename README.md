@@ -1,8 +1,6 @@
 # Git e Github
 
-
 Guia prático para iniciantes 
-
 
 # Scenes
 
@@ -22,8 +20,6 @@ Guia prático para iniciantes
 - [x] Você precisa voltar um arquivo para um determinado momento da linha do tempo.
 - [x] Você precisa recuperar algo deletado.
 
-
-
 * `git init` // inicia a linha do tempo
 * `git add` // adiciona ou atualiza mudanças para irem para a linha do tempo
 * `git commit` // adiciona um ponto na linha do tempo
@@ -36,3 +32,4 @@ Guia prático para iniciantes
 * `git push` // envia alterações locais para o repositório remoto
 * `git clone` // clonar um projeto / repositório
 * `git pull` // puxa um repositório do remoto
+* `git commit -am "msg"` // adiciona ou atualiza mudanças para irem para a linha do tempo && adiciona um ponto na linha do tempo
